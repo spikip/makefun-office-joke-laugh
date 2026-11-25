@@ -8,7 +8,10 @@ is the bleak truth of office life dressed as a bonding activity: the
 printer is the real team builder, and the red light is the only
 manager who ever shows up on time. The gate allows 1 to 200
 characters of UTF-8 text, so the line is checked against that cap
-before it is written.
+before it is written. The joke also works because it never names a
+villain: the printer is not evil, the colleagues are not lazy, the
+whole office is just united for once by a machine that refuses to
+cooperate, which is the most honest team building exercise of all.
 """
 
 import os
